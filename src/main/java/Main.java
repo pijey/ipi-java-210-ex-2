@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args)
     {
-        short[] ennemis = initEnnemis();
+        //TODO exercice 11
     }
 
     public static void initPersonnage(){
