@@ -101,7 +101,7 @@ Pour tester complètement votre méthode une fois celle-ci développée, décomm
 
 Si le bouclier a ici 3 points
 ``` 
-L'ennemi attaque John ! Il lui fait 4 points de dommages ! Le bouclier perd 3 points. John perd 1 points de vie
+L'ennemi attaque John ! Il lui fait 4 points de dommages ! Le bouclier perd 3 points. John perd 1 points de vie !
 ```
 ou si le bouclier a plus de points que l'attaque
 ``` 
@@ -109,7 +109,7 @@ L'ennemi attaque John ! Il lui fait 4 points de dommages ! Le bouclier perd 4 po
 ```
 ou si le bouclier est vide
 ``` 
-L'ennemi attaque John ! Il lui fait 4 points de dommages ! John perd 4 points de vie
+L'ennemi attaque John ! Il lui fait 4 points de dommages ! John perd 4 points de vie !
 ```
 
 ## Exercice 9
